@@ -24,4 +24,4 @@ This repository showcases hands-on cybersecurity projects demonstrating skills i
 - Risk Assessment
 
 ## Portfolio
-📄 View my full portfolio: (upload PDF here)
+
